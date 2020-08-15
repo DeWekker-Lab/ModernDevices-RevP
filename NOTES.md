@@ -8,7 +8,7 @@ will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rot
 
 ## Tasks
 - [ ] Create BOM
-- [ ] Measure [zero wind term](https://moderndevice.com/uncategorized/calibrating-rev-p-wind-sensor-new-regression/?preview=true) 
+- [ ] Measure [zero wind term](https://moderndevice.com/uncategorized/calibrating-rev-p-wind-sensor-new-regression/?preview=true)
 
 
   * * *
@@ -22,7 +22,6 @@ will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rot
 
 ## Parts List:
 - [ ] 12 vdc voltage regulator
-- [ ]
 - [ ] [Seeeduino Mega](https://wiki.seeedstudio.com/Seeeduino_Mega/)
 - [ ] [Arduino Mega 2560 Rev3](https://store.arduino.cc/usa/mega-2560-r3)
 - [ ] [Adafruit Logger Sield](https://learn.adafruit.com/adafruit-data-logger-shield/overview)
