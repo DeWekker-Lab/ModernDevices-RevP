@@ -11,7 +11,7 @@ Will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rot
 - [ ] Measure [zero wind term](https://moderndevice.com/uncategorized/calibrating-rev-p-wind-sensor-new-regression/?preview=true)
 
 
-  * * *
+* * *
 
 ## Sensor Requirements:
 - 9-12 vdc from input into Arduino.
@@ -45,4 +45,4 @@ Will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rot
 - 3S LiPo battery (optional)
 - LiPi battery charger (optional)
 - RTC battery
-- SD card 
+- SD card
