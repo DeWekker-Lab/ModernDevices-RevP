@@ -38,6 +38,7 @@ Will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rot
 
 ### Accessories
 - [12V Step-Up/Step-Down Regulator](https://www.pololu.com/product/2577)
+<<<<<<< HEAD
 
 ### From lab
 - Protoboard
@@ -46,3 +47,5 @@ Will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rot
 - LiPi battery charger (optional)
 - RTC battery
 - SD card
+=======
+>>>>>>> parent of 9ec9526... added from lab section
