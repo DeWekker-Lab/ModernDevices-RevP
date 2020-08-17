@@ -1,0 +1,7 @@
+site_name: My Docs by GitLab Pages
+site_url: https://de-wekker-lab.gitlab.io/
+site_dir: public
+
+nav:
+    - Home: 'index.md'
+    - Modern Devices RevP: 'ModernDevices-RevP'
