@@ -2,7 +2,7 @@
 
 a project to build a 3D anemometer using these [Modern Device Rev P senors](https://moderndevice.com/product/wind-sensor-rev-p/) that were formerly used in an engineering capstone project [Wolf_DeWekker_2017.pdf](https://github.com/DeWekker-Lab/ModernDevices-RevP/blob/master/Wolf_DeWekker_2017.pdf)
 
-will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rotating-vane-mount-carry-case-for-5000-series-1) to capture wind speed and direction from four sensors.
+Will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rotating-vane-mount-carry-case-for-5000-series-1) to capture wind speed and direction from four sensors.
 
 * * *
 
@@ -16,14 +16,24 @@ will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rot
 ## Sensor Requirements:
 - 9-12 vdc from input into Arduino.
   - **12 vdc** is optimal.
-- The sensor has build in voltage divider. for both the temperature and the wind analog outputs.
+- The sensor has build in voltage divider for both the temperature and the wind analog outputs.
 
 * * *
 
 ## Parts List:
-- [ ] 12 vdc voltage regulator
-- [ ] [Seeeduino Mega](https://wiki.seeedstudio.com/Seeeduino_Mega/)
-- [ ] [Arduino Mega 2560 Rev3](https://store.arduino.cc/usa/mega-2560-r3)
-- [ ] [Adafruit Logger Sield](https://learn.adafruit.com/adafruit-data-logger-shield/overview)
-- [ ] [Adafruit Mega Proto Shield](https://www.adafruit.com/product/192)
-- [ ]
+
+### Option 1
+- Arduino Mega 2560: [Arduino](https://store.arduino.cc/usa/mega-2560-r3), [SparkFun](https://www.sparkfun.com/products/11061), or [Pololu](https://www.pololu.com/product/1699)
+- Precision RTC DS3231: [Adafruit](https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout)
+- SD Card Board: [Adafruit](https://learn.adafruit.com/adafruit-micro-sd-breakout-board-card-tutorial)
+
+### Option 2
+- Arduino Mega 2560: [Arduino](https://store.arduino.cc/usa/mega-2560-r3), [SparkFun](https://www.sparkfun.com/products/11061), or [Pololu](https://www.pololu.com/product/1699)
+- Data Logging Shield: [Adafruit](https://www.adafruit.com/product/1141) (uses PCF8523 which is not a temperature compensated RTC chip)
+
+### Option 3
+- Seeeduino Stalker
+- ADC from [Adafruit](https://learn.adafruit.com/adafruit-4-channel-adc-breakouts/overview) or [SparkFun](https://www.sparkfun.com/products/15334)
+
+### Accessories
+- [12V Step-Up/Step-Down Regulator](https://www.pololu.com/product/2577)
