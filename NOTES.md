@@ -38,3 +38,11 @@ Will be mounted to a [vane mount](https://kestrelmeters.com/products/kestrel-rot
 
 ### Accessories
 - [12V Step-Up/Step-Down Regulator](https://www.pololu.com/product/2577)
+
+### From lab
+- Protoboard
+- Wires
+- 3S LiPo battery (optional)
+- LiPi battery charger (optional)
+- RTC battery
+- SD card 
