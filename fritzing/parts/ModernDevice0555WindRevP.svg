@@ -1,0 +1,4228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:ooo="http://xml.openoffice.org/svg/export"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6, 2020-04-09)"
+   sodipodi:docname="ModernDevice0555WindRevP.svg"
+   id="svg18132"
+   xml:space="preserve"
+   stroke-linejoin="round"
+   stroke-width="28.222"
+   fill-rule="evenodd"
+   preserveAspectRatio="xMidYMid"
+   viewBox="0 0 10027.222 3074.2221"
+   height="30.74222mm"
+   width="100.27222mm"
+   version="1.2"><metadata
+   id="metadata18136"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:current-layer="svg18132"
+   inkscape:window-maximized="1"
+   inkscape:window-y="23"
+   inkscape:window-x="0"
+   inkscape:cy="58.133318"
+   inkscape:cx="189.54749"
+   inkscape:zoom="0.23295455"
+   fit-margin-bottom="0"
+   fit-margin-right="0"
+   fit-margin-left="0"
+   fit-margin-top="0"
+   showgrid="false"
+   id="namedview18134"
+   inkscape:window-height="1009"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+ <defs
+   id="defs17014"
+   class="ClipPathGroup">
+  <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="presentation_clip_path">
+   <rect
+   id="rect17008"
+   height="27940"
+   width="21590"
+   y="0"
+   x="0" />
+  </clipPath>
+  <clipPath
+   clipPathUnits="userSpaceOnUse"
+   id="presentation_clip_path_shrink">
+   <rect
+   id="rect17011"
+   height="27885"
+   width="21547"
+   y="27"
+   x="21" />
+  </clipPath>
+ </defs>
+ <defs
+   id="defs17018"
+   class="TextShapeIndex">
+  <g
+   id="g17016"
+   ooo:id-list="id3"
+   ooo:slide="id1" />
+ </defs>
+ <defs
+   id="defs17050"
+   class="EmbeddedBulletChars">
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-57356">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17020"
+   d="M 580,1141 1163,571 580,0 -4,571 Z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-57354">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17023"
+   d="M 8,1128 H 1137 V 0 H 8 Z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-10146">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17026"
+   d="M 174,0 602,739 174,1481 1456,739 Z M 1358,739 309,1346 659,739 Z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-10132">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17029"
+   d="M 2015,739 1276,0 H 717 l 543,543 H 174 v 393 h 1086 l -543,545 h 557 z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-10007">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17032"
+   d="m 0,-2 c -7,16 -16,29 -25,39 l 381,530 c -94,256 -141,385 -141,387 0,25 13,38 40,38 9,0 21,-2 34,-5 21,4 42,12 65,25 l 27,-13 111,-251 280,301 64,-25 24,25 c 21,-10 41,-24 62,-43 C 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 c 0,-27 -21,-55 -63,-84 l 16,-20 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 c -22,-34 -53,-51 -92,-51 -42,0 -63,17 -64,51 -7,9 -10,24 -10,44 0,9 1,19 2,30 z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-10004">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17035"
+   d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 c 0,78 14,145 41,201 34,71 87,106 158,106 53,0 88,-31 106,-94 l 23,-176 c 8,-64 28,-97 59,-98 l 735,706 c 11,11 33,17 66,17 42,0 63,-15 63,-46 V 965 c 0,-36 -10,-64 -30,-84 L 442,47 C 390,-6 338,-33 285,-33 Z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-9679">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17038"
+   d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 c 0,181 53,324 160,431 106,107 249,161 430,161 179,0 323,-54 432,-161 108,-107 162,-251 162,-431 0,-180 -54,-324 -162,-431 C 1136,54 992,0 813,0 Z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-8226">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17041"
+   d="m 346,457 c -73,0 -137,26 -191,78 -54,51 -81,114 -81,188 0,73 27,136 81,188 54,52 118,78 191,78 73,0 134,-26 185,-79 51,-51 77,-114 77,-187 0,-75 -25,-137 -76,-188 -50,-52 -112,-78 -186,-78 z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-8211">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17044"
+   d="M -4,459 H 1135 V 606 H -4 Z" />
+  </g>
+  <g
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)"
+   id="bullet-char-template-61548">
+   <path
+   inkscape:connector-curvature="0"
+   id="path17047"
+   d="m 173,740 c 0,163 58,303 173,419 116,115 255,173 419,173 163,0 302,-58 418,-173 116,-116 174,-256 174,-419 0,-163 -58,-303 -174,-418 C 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z" />
+  </g>
+ </defs>
+ <g
+   transform="translate(-5779.889,-12431.889)"
+   id="g17055">
+  <g
+   class="Master_Slide"
+   id="id2">
+   <g
+   class="Background"
+   id="bg-id2" />
+   <g
+   class="BackgroundObjects"
+   id="bo-id2" />
+  </g>
+ </g>
+ <g
+   transform="translate(-5779.889,-12431.889)"
+   id="g18130"
+   class="SlideGroup">
+  <g
+   id="g18128">
+   <g
+   id="container-id1">
+    <g
+   clip-path="url(#presentation_clip_path)"
+   class="Slide"
+   id="id1">
+     <g
+   id="g18124"
+   class="Page">
+      <g
+   id="g18122"
+   class="Graphic">
+       <g
+   id="id3">
+        <rect
+   id="rect17057"
+   height="3047"
+   width="10001"
+   y="12446"
+   x="5794"
+   fill="none"
+   stroke="none"
+   class="BoundingBox" />
+        <line
+   id="line17059"
+   y2="12447"
+   x2="5928"
+   y1="12447"
+   x1="11214"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17061"
+   y2="15492"
+   x2="11236"
+   y1="15492"
+   x1="5906"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17063"
+   y2="15380"
+   x2="10788"
+   y1="12581"
+   x1="10788"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17065"
+   d="m 11326,12558 v -6 l -1,-6 v -5 l -1,-6 -2,-6 -1,-5 -2,-6 -3,-5 -2,-5 -3,-5 -3,-5 -3,-5 -4,-5 -4,-4 -4,-4 -4,-4 -5,-4 -4,-4 -5,-3 -5,-3 -5,-3 -5,-2 -6,-3 -5,-2 -6,-1 -6,-2 -5,-1 h -6 l -6,-1 h -6 z"
+   stroke="#ff003f"
+   fill="none" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17067"
+   d="m 11236,15491 h 5 l 5,-1 5,-2 5,-1 5,-2 5,-2 5,-3 4,-2 5,-3 4,-3 4,-3 4,-4 4,-3 4,-4 3,-4 3,-4 3,-5 3,-4 2,-5 3,-5 2,-4 1,-5 2,-5 1,-5 1,-6 v -5 l 1,-5 v -5 -6 l -1,-5 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17069"
+   y2="14798"
+   x2="11326"
+   y1="15380"
+   x1="11326"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17071"
+   d="m 11572,14529 -13,1 -13,2 -13,2 -13,3 -12,3 -13,4 -12,5 -12,5 -11,6 -12,7 -11,7 -10,8 -10,8 -10,9 -10,9 -8,9 -9,10 -8,11 -7,11 -7,11 -6,12 -5,11 -5,12 -5,13 -3,12 -3,13 -3,13 -1,13 -2,13 v 13 13 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17073"
+   y2="14529"
+   x2="12669"
+   y1="14529"
+   x1="11572"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17075"
+   d="m 12737,14592 v -3 l -1,-4 v -3 l -1,-3 -1,-3 -1,-4 -1,-3 -1,-3 -2,-3 -1,-3 -2,-2 -2,-3 -2,-3 -2,-2 -3,-3 -2,-2 -3,-2 -2,-2 -3,-2 -3,-2 -3,-1 -3,-1 -3,-2 -3,-1 -3,-1 -3,-1 h -4 l -3,-1 h -3 -4 -3 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17077"
+   y2="14659"
+   x2="12737"
+   y1="14592"
+   x1="12737"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17079"
+   d="m 12736,14659 v 1 1 1 1 1 1 1 l 1,1 v 1 1 1 l 1,1 v 1 l 1,1 v 1 l 1,1 v 1 l 1,1 v 1 h 1 v 1 l 1,1 1,1 1,1 v 0 l 1,1 1,1 h 1 l 1,1 v 0 l 1,1 1,1 h 1 1 l 1,1 h 1 l 1,1 h 1 1 1 l 1,1 h 1 1 1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17081"
+   y2="14691"
+   x2="12875"
+   y1="14691"
+   x1="12763"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17083"
+   d="m 12875,14691 h 1 1 1 1 1 1 1 1 1 1 l 1,-1 h 1 1 1 l 1,-1 h 1 1 l 1,-1 h 1 l 1,-1 h 1 l 1,-1 h 1 v -1 h 1 l 1,-1 1,-1 h 1 v -1 l 1,-1 1,-1 v 0 l 1,-1 1,-1 v -1 l 1,-1 v 0 l 1,-1 v -1 l 1,-1 v -1 l 1,-1 v -1 -1 l 1,-1 v -1 -1 -1 l 1,-1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17085"
+   y2="14552"
+   x2="12911"
+   y1="14664"
+   x1="12911"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17087"
+   d="m 12983,14507 -3,-1 h -3 l -3,-1 h -3 -3 -3 -3 l -3,1 h -3 l -3,1 -3,1 -3,1 -2,1 -3,2 -3,1 -2,2 -3,2 -2,2 -3,2 -2,2 -2,2 -2,2 -2,3 -1,2 -2,3 -1,3 -2,2 -1,3 -1,3 -1,3 -1,3 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17089"
+   y2="14507"
+   x2="13252"
+   y1="14507"
+   x1="12983"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17091"
+   d="m 13282,14538 v -1 -1 -1 -1 -1 l -1,-1 v -1 -1 -1 l -1,-1 v -1 -1 l -1,-1 v -1 l -1,-1 v -1 l -1,-1 v -1 h -1 l -1,-1 v -1 l -1,-1 -1,-1 v 0 l -1,-1 -1,-1 h -1 l -1,-1 v -1 h -1 l -1,-1 h -1 l -1,-1 h -1 l -1,-1 h -1 -1 l -1,-1 h -1 -1 -1 l -1,-1 h -1 -1 -1 -1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17093"
+   y2="14570"
+   x2="13283"
+   y1="14538"
+   x1="13283"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17095"
+   d="m 13283,14570 v 1 1 l 1,1 v 1 1 1 l 1,1 v 1 l 1,1 v 1 1 l 1,1 1,1 v 0 l 1,1 v 1 l 1,1 1,1 v 0 l 1,1 1,1 1,1 h 1 v 1 h 1 l 1,1 h 1 l 1,1 h 1 l 1,1 h 1 1 l 1,1 h 1 1 l 1,1 h 1 1 1 1 1 1 1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17097"
+   y2="14596"
+   x2="13610"
+   y1="14596"
+   x1="13314"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17099"
+   y2="14484"
+   x2="13610"
+   y1="14596"
+   x1="13610"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17101"
+   y2="14484"
+   x2="13789"
+   y1="14484"
+   x1="13610"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17103"
+   y2="14596"
+   x2="13789"
+   y1="14484"
+   x1="13789"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17105"
+   y2="14596"
+   x2="14116"
+   y1="14596"
+   x1="13789"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17107"
+   y2="14238"
+   x2="14116"
+   y1="14596"
+   x1="14116"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17109"
+   y2="14238"
+   x2="13789"
+   y1="14238"
+   x1="14116"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17111"
+   y2="14350"
+   x2="13789"
+   y1="14238"
+   x1="13789"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17113"
+   y2="14350"
+   x2="13610"
+   y1="14350"
+   x1="13789"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17115"
+   y2="14238"
+   x2="13610"
+   y1="14350"
+   x1="13610"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17117"
+   y2="14238"
+   x2="13332"
+   y1="14238"
+   x1="13610"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17119"
+   d="m 13332,14238 h -2 l -2,-1 h -2 -3 -2 -2 -2 l -2,1 h -2 l -2,1 -2,1 h -2 l -2,1 -2,1 -2,1 -2,2 -1,1 -2,1 -2,2 -1,1 -2,2 -1,2 -1,1 -1,2 -1,2 -1,2 -1,2 -1,2 v 2 l -1,2 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17121"
+   y2="14283"
+   x2="13283"
+   y1="14269"
+   x1="13283"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17123"
+   d="m 13252,14326 h 2 l 2,-1 h 2 l 2,-1 2,-1 2,-1 2,-1 2,-1 1,-1 2,-2 2,-1 1,-2 1,-1 2,-2 1,-2 1,-2 1,-1 1,-2 1,-2 v -2 l 1,-2 v -2 l 1,-3 v -2 -2 -2 -2 l -1,-2 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17125"
+   y2="14328"
+   x2="13117"
+   y1="14328"
+   x1="13252"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17127"
+   d="m 13081,14287 v 2 2 2 l 1,3 v 2 l 1,2 v 2 l 1,2 1,2 1,2 1,1 1,2 1,2 2,1 1,2 2,1 1,2 2,1 2,1 2,1 2,1 2,1 2,1 2,1 h 2 2 l 2,1 h 2 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17129"
+   y2="14166"
+   x2="13081"
+   y1="14287"
+   x1="13081"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17131"
+   d="m 13080,14166 v -1 -1 -1 -1 l -1,-1 v -1 -1 -1 l -1,-1 v -1 l -1,-1 v -1 -1 l -1,-1 -1,-1 v -1 h -1 l -1,-1 v -1 l -1,-1 h -1 l -1,-1 v -1 h -1 l -1,-1 -1,-1 h -1 l -1,-1 h -1 -1 l -1,-1 h -1 -1 -1 l -1,-1 h -1 -1 -1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17133"
+   y2="14140"
+   x2="12934"
+   y1="14140"
+   x1="13055"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17135"
+   d="m 12934,14139 h -1 l -1,1 h -1 -1 l -1,1 h -1 -1 l -1,1 h -1 l -1,1 h -1 v 1 h -1 l -1,1 -1,1 h -1 v 1 l -1,1 -1,1 v 1 h -1 l -1,1 v 1 l -1,1 v 1 l -1,1 v 1 1 l -1,1 v 1 1 1 l -1,1 v 1 1 1 1 1 1 1 1 1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17137"
+   y2="14261"
+   x2="12911"
+   y1="14171"
+   x1="12911"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17139"
+   d="m 12871,14304 h 2 l 2,-1 h 2 l 2,-1 h 2 l 2,-1 2,-1 2,-1 2,-1 2,-1 2,-1 1,-1 2,-2 2,-1 1,-2 1,-1 2,-2 1,-2 1,-2 1,-1 1,-2 1,-2 1,-2 v -2 l 1,-2 v -2 l 1,-3 v -2 -2 -2 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17141"
+   y2="14305"
+   x2="12781"
+   y1="14305"
+   x1="12871"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17143"
+   d="m 12741,14265 v 2 2 2 l 1,2 v 2 l 1,2 1,2 v 2 l 1,2 1,2 1,2 2,2 1,1 1,2 2,1 1,2 2,1 1,1 2,2 2,1 2,1 2,1 h 2 l 2,1 2,1 h 2 l 2,1 h 2 2 2 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17145"
+   y2="14175"
+   x2="12741"
+   y1="14265"
+   x1="12741"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17147"
+   d="m 12741,14175 v -2 -2 l -1,-2 v -2 l -1,-2 v -2 l -1,-2 -1,-2 -1,-2 -1,-2 -2,-2 -1,-1 -2,-2 -1,-1 -2,-2 -2,-1 -1,-1 -2,-1 -2,-1 -2,-1 h -2 l -2,-1 h -3 l -2,-1 h -2 -2 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17149"
+   y2="14140"
+   x2="12598"
+   y1="14140"
+   x1="12705"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17151"
+   d="m 12598,14139 h -1 -1 -1 l -1,1 h -1 -1 -1 l -1,1 h -1 l -1,1 h -1 l -1,1 h -1 l -1,1 h -1 v 1 h -1 l -1,1 -1,1 v 0 l -1,1 -1,1 -1,1 v 1 h -1 v 1 l -1,1 v 1 l -1,1 v 1 l -1,1 v 1 1 l -1,1 v 1 1 l -1,1 v 1 1 1 1 1 1 1 1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17153"
+   y2="14220"
+   x2="12571"
+   y1="14171"
+   x1="12571"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17155"
+   d="m 12495,14304 4,-1 h 4 l 4,-1 5,-1 4,-1 4,-1 3,-2 4,-2 4,-2 3,-2 4,-2 3,-3 3,-3 3,-3 3,-3 3,-3 3,-3 2,-4 2,-3 2,-4 2,-4 2,-3 1,-4 1,-4 1,-4 1,-4 1,-5 v -4 -4 -4 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17157"
+   y2="14305"
+   x2="11594"
+   y1="14305"
+   x1="12495"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17159"
+   d="m 11370,14104 1,11 1,10 2,11 3,11 3,10 3,10 4,10 5,10 5,10 5,9 6,9 7,9 7,8 7,8 7,8 8,7 9,7 9,6 9,6 9,5 9,5 10,5 10,4 10,3 11,3 10,3 11,2 11,1 10,1 h 11 11 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17161"
+   y2="13925"
+   x2="11370"
+   y1="14104"
+   x1="11370"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17163"
+   d="m 11572,13700 -11,1 -11,2 -10,1 -11,3 -10,3 -10,3 -10,4 -10,5 -10,5 -9,6 -9,6 -9,6 -8,7 -8,7 -8,8 -7,8 -7,8 -6,9 -6,9 -6,9 -5,10 -4,10 -4,10 -4,10 -2,11 -3,10 -2,11 -1,11 -1,10 v 11 11 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17165"
+   y2="13701"
+   x2="13744"
+   y1="13701"
+   x1="11572"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17167"
+   d="m 13990,13858 -11,-16 -11,-15 -12,-14 -13,-14 -14,-13 -14,-12 -15,-11 -16,-11 -16,-10 -16,-8 -18,-8 -17,-7 -18,-6 -18,-5 -18,-4 -19,-3 z"
+   stroke="#ff003f"
+   fill="none" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17169"
+   d="m 13991,13857 20,19 21,19 22,17 23,16 23,15 25,14 25,12 25,10 27,10 26,8 27,6 28,5 27,4 28,2 h 28 l 28,-1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17171"
+   d="m 13744,13342 17,-1 18,-3 17,-3 17,-5 17,-5 16,-6 16,-7 16,-8 15,-9 14,-10 14,-10 14,-11 13,-12 12,-13 11,-13 11,-14 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17173"
+   y2="13342"
+   x2="11505"
+   y1="13342"
+   x1="13744"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17175"
+   d="m 11326,13096 -2,11 -1,11 v 10 11 l 1,11 1,11 2,11 3,10 3,11 3,10 4,10 5,10 5,10 5,9 6,9 7,9 7,9 7,8 8,8 8,7 8,7 9,6 9,6 9,6 10,5 10,4 10,4 10,4 11,3 10,3 11,1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17177"
+   y2="12558"
+   x2="11326"
+   y1="13096"
+   x1="11326"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17179"
+   d="m 5794,15380 v 6 l 1,6 v 6 l 1,5 2,6 1,6 2,5 3,6 2,5 3,5 3,5 3,5 4,4 4,5 4,4 4,4 5,4 4,4 5,3 5,3 5,3 5,2 6,3 5,2 6,1 6,2 5,1 h 6 l 6,1 h 6 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17181"
+   y2="12558"
+   x2="5794"
+   y1="15380"
+   x1="5794"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17183"
+   d="m 5928,12446 h -6 -6 -7 l -6,1 -6,1 -6,1 -6,1 -6,2 -6,2 -6,3 -5,2 -6,3 -5,3 -5,4 -5,4 -5,4 -5,4 -4,4 -4,5 -4,5 -4,5 -3,5 -3,6 -3,5 -3,6 -2,6 -2,6 -1,6 -2,6 -1,6 -1,6 z"
+   stroke="#ff003f"
+   fill="none" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17185"
+   d="m 15312,14014 23,1 23,-1 24,-1 23,-3 23,-5 22,-5 22,-6 22,-8 22,-9 21,-9 21,-11 20,-12 19,-13 19,-14 18,-15 17,-15 16,-17 16,-17 15,-18 13,-19 13,-19 12,-21 10,-20 10,-21 9,-22 7,-22 7,-22 5,-23 4,-23 3,-23 1,-23 1,-24 -1,-23 -1,-23 -3,-23 -5,-23 -5,-23 -6,-22 -8,-22 -8,-22 -10,-21 -11,-21 -12,-20 -13,-19 -13,-19 -15,-18 -16,-17 -16,-17 -17,-15 -18,-15 -19,-14 -20,-13 -20,-11 -20,-11 -21,-10 -22,-8 -22,-8 -22,-6 -23,-6 -23,-4 -23,-3 -23,-1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17187"
+   d="m 14981,13242 h 1 1 1 l 1,-1 h 1 1 l 1,-1 h 1 l 1,-1 1,-1 h 1 v -1 l 1,-1 1,-1 v -1 l 1,-1 v -1 l 1,-1 v -1 -1 l 1,-1 v -1 -1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17189"
+   d="m 15034,13067 10,4 10,4 10,4 10,4 10,3 11,2 10,3 11,2 11,1 10,2 h 11 l 11,1 h 11 10 l 11,-1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17191"
+   y2="13096"
+   x2="15357"
+   y1="13096"
+   x1="15191"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17193"
+   d="m 15191,13231 -11,-1 h -11 -10 l -11,1 -11,1 -11,1 -10,2 -11,2 -10,3 -11,2 -10,4 -10,3 -10,4 -10,4 -10,5 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17195"
+   y2="13242"
+   x2="14963"
+   y1="13242"
+   x1="14981"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17197"
+   y2="13262"
+   x2="14963"
+   y1="13242"
+   x1="14963"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17199"
+   y2="13262"
+   x2="15034"
+   y1="13262"
+   x1="14963"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17201"
+   d="m 14997,13100 v -1 -1 -1 l -1,-1 v -1 -1 l -1,-1 v -1 l -1,-1 -1,-1 v -1 h -1 l -1,-1 -1,-1 h -1 l -1,-1 h -1 -1 l -1,-1 h -1 -1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17203"
+   y2="13100"
+   x2="14998"
+   y1="13226"
+   x1="14998"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17205"
+   y2="13085"
+   x2="14965"
+   y1="13085"
+   x1="14983"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17207"
+   y2="13067"
+   x2="14965"
+   y1="13085"
+   x1="14965"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17209"
+   y2="13067"
+   x2="15034"
+   y1="13067"
+   x1="14965"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17211"
+   d="m 15379,13790 14,-2 14,-3 14,-3 13,-5 14,-5 13,-5 13,-6 12,-7 12,-8 12,-8 11,-8 11,-10 10,-9 10,-11 10,-10 8,-12 9,-11 7,-12 7,-13 7,-13 5,-13 5,-13 5,-14 3,-13 3,-14 2,-14 2,-15 1,-14 v -14 l -1,-14 -1,-15 -2,-14 -3,-14 -3,-14 -4,-13 -5,-14 -6,-13 -6,-13 -7,-12 -7,-12 -8,-12 -9,-11 -9,-11 -10,-11 -10,-10 -11,-9 -11,-9 -11,-8 -12,-8 -13,-7 -13,-6 -13,-6 -13,-5 -13,-4 -14,-4 -14,-3 -14,-2 -14,-2 -14,-1 h -15 l -14,1 -14,1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17213"
+   y2="13230"
+   x2="15191"
+   y1="13230"
+   x1="15312"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17215"
+   y2="14014"
+   x2="14394"
+   y1="14014"
+   x1="15312"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17217"
+   y2="13790"
+   x2="14371"
+   y1="13790"
+   x1="15379"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17219"
+   d="m 14349,13230 -14,1 -14,2 -14,2 -14,3 -14,4 -13,4 -13,5 -13,6 -13,7 -12,7 -12,7 -12,9 -11,8 -11,10 -10,10 -9,10 -9,11 -9,11 -8,12 -7,12 -7,13 -6,13 -5,13 -5,13 -4,14 -4,14 -2,13 -2,14 -1,15 -1,14 v 14 l 1,14 2,14 2,14 3,14 4,14 4,13 5,13 6,13 7,13 7,12 7,12 9,12 8,11 10,11 10,10 10,9 11,9 11,9 12,8 12,7 13,7 13,6 13,5 13,5 14,4 14,4 13,2 14,2 15,1 14,1 h 14 z"
+   stroke="#ff003f"
+   fill="none" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17221"
+   d="m 14282,13096 -22,1 -22,2 -21,3 -22,4 -21,5 -21,6 -21,7 -20,8 -20,8 -20,10 -19,11 -19,11 -18,13 -17,13 -17,14 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17223"
+   y2="13228"
+   x2="14580"
+   y1="13230"
+   x1="14349"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17225"
+   d="m 14680,13262 -6,-4 -6,-3 -6,-4 -7,-3 -6,-3 -7,-3 -6,-2 -7,-2 -7,-2 -7,-2 -7,-2 -7,-1 -7,-1 -7,-1 -7,-1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17227"
+   y2="13262"
+   x2="14766"
+   y1="13262"
+   x1="14680"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17229"
+   y2="13242"
+   x2="14766"
+   y1="13262"
+   x1="14766"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17231"
+   y2="13242"
+   x2="14745"
+   y1="13242"
+   x1="14766"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17233"
+   d="m 14729,13219 v 1 1 1 1 1 1 1 l 1,1 v 1 1 l 1,1 v 1 l 1,1 v 0 l 1,1 1,1 v 1 l 1,1 h 1 l 1,1 v 1 h 1 l 1,1 h 1 1 l 1,1 h 1 1 l 1,1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17235"
+   y2="13107"
+   x2="14730"
+   y1="13219"
+   x1="14730"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17237"
+   d="m 14745,13084 h -1 l -1,1 h -1 -1 l -1,1 h -1 l -1,1 h -1 l -1,1 -1,1 v 1 h -1 l -1,1 v 1 l -1,1 -1,1 v 1 l -1,1 v 1 1 l -1,1 v 1 1 1 1 1 1 1 1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17239"
+   y2="13085"
+   x2="14766"
+   y1="13085"
+   x1="14745"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17241"
+   y2="13071"
+   x2="14766"
+   y1="13085"
+   x1="14766"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17243"
+   d="m 14766,13071 v -1 0 -1 0 -1 h -1 v -1 0 h -1 v -1 h -1 v 0 l -1,-1 v 0 h -1 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17245"
+   y2="13065"
+   x2="14683"
+   y1="13065"
+   x1="14761"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17247"
+   d="m 14544,13100 h 10 l 9,-1 h 10 l 9,-1 10,-2 9,-2 10,-2 9,-2 9,-3 10,-3 9,-3 9,-4 8,-4 9,-4 8,-5 z"
+   stroke="#ff003f"
+   fill="none" />
+        <line
+   id="line17249"
+   y2="13096"
+   x2="14280"
+   y1="13100"
+   x1="14544"
+   stroke="#ff003f"
+   fill="#ff003f" />
+        <line
+   id="line17251"
+   y2="13059"
+   x2="6475"
+   y1="13088"
+   x1="6504"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17253"
+   y2="13059"
+   x2="6417"
+   y1="13059"
+   x1="6475"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17255"
+   y2="13088"
+   x2="6388"
+   y1="13059"
+   x1="6417"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17257"
+   y2="13205"
+   x2="6388"
+   y1="13088"
+   x1="6388"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17259"
+   y2="13234"
+   x2="6417"
+   y1="13205"
+   x1="6388"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17261"
+   y2="13234"
+   x2="6475"
+   y1="13234"
+   x1="6417"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17263"
+   y2="13205"
+   x2="6504"
+   y1="13234"
+   x1="6475"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17265"
+   y2="13147"
+   x2="6504"
+   y1="13205"
+   x1="6504"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17267"
+   y2="13147"
+   x2="6446"
+   y1="13147"
+   x1="6504"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17269"
+   y2="13059"
+   x2="6573"
+   y1="13234"
+   x1="6573"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17271"
+   y2="13234"
+   x2="6690"
+   y1="13059"
+   x1="6573"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17273"
+   y2="13059"
+   x2="6690"
+   y1="13234"
+   x1="6690"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17275"
+   y2="13234"
+   x2="6759"
+   y1="13059"
+   x1="6759"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17277"
+   y2="13234"
+   x2="6846"
+   y1="13234"
+   x1="6759"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17279"
+   y2="13205"
+   x2="6875"
+   y1="13234"
+   x1="6846"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17281"
+   y2="13088"
+   x2="6875"
+   y1="13205"
+   x1="6875"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17283"
+   y2="13059"
+   x2="6846"
+   y1="13088"
+   x1="6875"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17285"
+   y2="13059"
+   x2="6759"
+   y1="13059"
+   x1="6846"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17287"
+   y2="13436"
+   x2="6489"
+   y1="13436"
+   x1="6388"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17289"
+   y2="13486"
+   x2="6439"
+   y1="13385"
+   x1="6439"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17291"
+   y2="13359"
+   x2="6603"
+   y1="13410"
+   x1="6553"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17293"
+   y2="13512"
+   x2="6603"
+   y1="13359"
+   x1="6603"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17295"
+   y2="13512"
+   x2="6654"
+   y1="13512"
+   x1="6553"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17297"
+   y2="13385"
+   x2="6718"
+   y1="13486"
+   x1="6718"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17299"
+   y2="13359"
+   x2="6743"
+   y1="13385"
+   x1="6718"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17301"
+   y2="13359"
+   x2="6794"
+   y1="13359"
+   x1="6743"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17303"
+   y2="13385"
+   x2="6819"
+   y1="13359"
+   x1="6794"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17305"
+   y2="13486"
+   x2="6819"
+   y1="13385"
+   x1="6819"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17307"
+   y2="13512"
+   x2="6794"
+   y1="13486"
+   x1="6819"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17309"
+   y2="13512"
+   x2="6743"
+   y1="13512"
+   x1="6794"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17311"
+   y2="13486"
+   x2="6718"
+   y1="13512"
+   x1="6743"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17313"
+   y2="13385"
+   x2="6819"
+   y1="13486"
+   x1="6718"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17315"
+   y2="13436"
+   x2="6984"
+   y1="13436"
+   x1="6883"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17317"
+   y2="13574"
+   x2="6439"
+   y1="13625"
+   x1="6388"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17319"
+   y2="13727"
+   x2="6439"
+   y1="13574"
+   x1="6439"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17321"
+   y2="13727"
+   x2="6489"
+   y1="13727"
+   x1="6388"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17323"
+   y2="13727"
+   x2="6553"
+   y1="13727"
+   x1="6654"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17325"
+   y2="13625"
+   x2="6654"
+   y1="13727"
+   x1="6553"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17327"
+   y2="13600"
+   x2="6654"
+   y1="13625"
+   x1="6654"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17329"
+   y2="13574"
+   x2="6629"
+   y1="13600"
+   x1="6654"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17331"
+   y2="13574"
+   x2="6578"
+   y1="13574"
+   x1="6629"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17333"
+   y2="13600"
+   x2="6553"
+   y1="13574"
+   x1="6578"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17335"
+   y2="13676"
+   x2="6718"
+   y1="13574"
+   x1="6718"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17337"
+   y2="13727"
+   x2="6768"
+   y1="13676"
+   x1="6718"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17339"
+   y2="13676"
+   x2="6819"
+   y1="13727"
+   x1="6768"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17341"
+   y2="13574"
+   x2="6819"
+   y1="13676"
+   x1="6819"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17343"
+   y2="13924"
+   x2="6419"
+   y1="13924"
+   x1="6477"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17345"
+   y2="13953"
+   x2="6390"
+   y1="13924"
+   x1="6419"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17347"
+   y2="14069"
+   x2="6390"
+   y1="13953"
+   x1="6390"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17349"
+   y2="14099"
+   x2="6419"
+   y1="14069"
+   x1="6390"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17351"
+   y2="14099"
+   x2="6477"
+   y1="14099"
+   x1="6419"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17353"
+   y2="14069"
+   x2="6506"
+   y1="14099"
+   x1="6477"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17355"
+   y2="13953"
+   x2="6506"
+   y1="14069"
+   x1="6506"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17357"
+   y2="13924"
+   x2="6477"
+   y1="13953"
+   x1="6506"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17359"
+   y2="14069"
+   x2="6576"
+   y1="13924"
+   x1="6576"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17361"
+   y2="14099"
+   x2="6605"
+   y1="14069"
+   x1="6576"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17363"
+   y2="14099"
+   x2="6663"
+   y1="14099"
+   x1="6605"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17365"
+   y2="14069"
+   x2="6692"
+   y1="14099"
+   x1="6663"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17367"
+   y2="13924"
+   x2="6692"
+   y1="14069"
+   x1="6692"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17369"
+   y2="13924"
+   x2="6819"
+   y1="14099"
+   x1="6819"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17371"
+   y2="13924"
+   x2="6878"
+   y1="13924"
+   x1="6761"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17373"
+   y2="14313"
+   x2="6446"
+   y1="14488"
+   x1="6446"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17375"
+   y2="14313"
+   x2="6504"
+   y1="14313"
+   x1="6388"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17377"
+   y2="14313"
+   x2="6573"
+   y1="14488"
+   x1="6573"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17379"
+   y2="14372"
+   x2="6632"
+   y1="14313"
+   x1="6573"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17381"
+   y2="14313"
+   x2="6690"
+   y1="14372"
+   x1="6632"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17383"
+   y2="14488"
+   x2="6690"
+   y1="14313"
+   x1="6690"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17385"
+   y2="14313"
+   x2="6759"
+   y1="14488"
+   x1="6759"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17387"
+   y2="14313"
+   x2="6846"
+   y1="14313"
+   x1="6759"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17389"
+   y2="14343"
+   x2="6875"
+   y1="14313"
+   x1="6846"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17391"
+   y2="14401"
+   x2="6875"
+   y1="14343"
+   x1="6875"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17393"
+   y2="14430"
+   x2="6846"
+   y1="14401"
+   x1="6875"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17395"
+   y2="14430"
+   x2="6759"
+   y1="14430"
+   x1="6846"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17397"
+   y2="14703"
+   x2="6477"
+   y1="14732"
+   x1="6506"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17399"
+   y2="14703"
+   x2="6419"
+   y1="14703"
+   x1="6477"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17401"
+   y2="14732"
+   x2="6390"
+   y1="14703"
+   x1="6419"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17403"
+   y2="14761"
+   x2="6390"
+   y1="14732"
+   x1="6390"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17405"
+   y2="14791"
+   x2="6419"
+   y1="14761"
+   x1="6390"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17407"
+   y2="14791"
+   x2="6477"
+   y1="14791"
+   x1="6419"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17409"
+   y2="14820"
+   x2="6506"
+   y1="14791"
+   x1="6477"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17411"
+   y2="14849"
+   x2="6506"
+   y1="14820"
+   x1="6506"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17413"
+   y2="14878"
+   x2="6477"
+   y1="14849"
+   x1="6506"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17415"
+   y2="14878"
+   x2="6419"
+   y1="14878"
+   x1="6477"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17417"
+   y2="14849"
+   x2="6390"
+   y1="14878"
+   x1="6419"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17419"
+   y2="14703"
+   x2="6576"
+   y1="14878"
+   x1="6576"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17421"
+   y2="14791"
+   x2="6692"
+   y1="14791"
+   x1="6576"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17423"
+   y2="14878"
+   x2="6692"
+   y1="14703"
+   x1="6692"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17425"
+   y2="14878"
+   x2="6761"
+   y1="14703"
+   x1="6761"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17427"
+   y2="14878"
+   x2="6849"
+   y1="14878"
+   x1="6761"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17429"
+   y2="14849"
+   x2="6878"
+   y1="14878"
+   x1="6849"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17431"
+   y2="14732"
+   x2="6878"
+   y1="14849"
+   x1="6878"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17433"
+   y2="14703"
+   x2="6849"
+   y1="14732"
+   x1="6878"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17435"
+   y2="14703"
+   x2="6761"
+   y1="14703"
+   x1="6849"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17437"
+   y2="14703"
+   x2="6947"
+   y1="14878"
+   x1="6947"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17439"
+   y2="14878"
+   x2="7063"
+   y1="14703"
+   x1="6947"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <line
+   id="line17441"
+   y2="14703"
+   x2="7063"
+   y1="14878"
+   x1="7063"
+   stroke="#00ffff"
+   fill="#00ffff" />
+        <circle
+   r="247"
+   id="ellipse17443"
+   cy="12782"
+   cx="6689"
+   stroke="#ff003f"
+   fill="none" />
+        <ellipse
+   id="ellipse17445"
+   ry="265"
+   rx="264"
+   cy="12782"
+   cx="6690"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="247"
+   id="ellipse17447"
+   cy="15156"
+   cx="6689"
+   stroke="#ff003f"
+   fill="none" />
+        <ellipse
+   id="ellipse17449"
+   ry="265"
+   rx="264"
+   cy="15156"
+   cx="6690"
+   stroke="#676767"
+   fill="none" />
+        <ellipse
+   id="ellipse17451"
+   ry="191"
+   rx="190"
+   cy="15259"
+   cx="11012"
+   stroke="#ff003f"
+   fill="none" />
+        <ellipse
+   id="ellipse17453"
+   ry="209"
+   rx="208"
+   cy="15259"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="190"
+   id="ellipse17455"
+   cy="12684"
+   cx="11012"
+   stroke="#ff003f"
+   fill="none" />
+        <circle
+   r="208"
+   id="ellipse17457"
+   cy="12684"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <line
+   id="line17459"
+   y2="14708"
+   x2="7496"
+   y1="14708"
+   x1="7496"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17461"
+   d="m 7090,14885 h 318 v -353 h -318 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17463"
+   d="m 7584,14885 h 318 v -353 h -318 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17465"
+   y2="14037"
+   x2="7496"
+   y1="14037"
+   x1="7496"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17467"
+   d="m 7902,13860 h -318 v 353 h 318 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17469"
+   d="m 7408,13860 h -318 v 353 h 318 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17471"
+   y2="12693"
+   x2="9960"
+   y1="12693"
+   x1="9960"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17473"
+   d="m 9695,12799 h 230 v -212 h -230 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17475"
+   d="m 9994,12799 h 230 v -212 h -230 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17477"
+   y2="12693"
+   x2="8952"
+   y1="12693"
+   x1="8952"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17479"
+   d="m 8687,12806 h 221 v -226 h -221 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17481"
+   d="m 8996,12806 h 221 v -226 h -221 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17483"
+   y2="15268"
+   x2="9960"
+   y1="15268"
+   x1="9960"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17485"
+   d="m 9668,15410 h 230 v -283 h -230 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17487"
+   d="m 10021,15410 h 230 v -283 h -230 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17489"
+   y2="15134"
+   x2="9086"
+   y1="15134"
+   x1="9086"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17491"
+   d="m 8751,14860 v 212 h 282 v -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17493"
+   d="m 8751,15195 v 213 h 282 v -213 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17495"
+   d="m 9139,15028 v 212 h 282 v -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17497"
+   y2="13109"
+   x2="8620"
+   y1="13109"
+   x1="9507"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17499"
+   y2="13109"
+   x2="8620"
+   y1="13844"
+   x1="8620"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17501"
+   y2="13844"
+   x2="9507"
+   y1="13844"
+   x1="8620"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17503"
+   y2="13844"
+   x2="9507"
+   y1="13109"
+   x1="9507"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17505"
+   y2="13150"
+   x2="8661"
+   y1="13150"
+   x1="9467"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17507"
+   y2="13150"
+   x2="8661"
+   y1="13804"
+   x1="8661"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17509"
+   y2="13804"
+   x2="9467"
+   y1="13804"
+   x1="8661"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17511"
+   y2="13804"
+   x2="9467"
+   y1="13150"
+   x1="9467"
+   stroke="#990025"
+   fill="#990025" />
+        <circle
+   r="81"
+   id="ellipse17513"
+   cy="13261"
+   cx="9350"
+   stroke="#990025"
+   fill="none" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17515"
+   d="m 9444,12892 h -89 v 211 h 89 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17517"
+   d="m 9332,12892 h -89 v 211 h 89 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17519"
+   d="m 9220,12892 h -89 v 211 h 89 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17521"
+   d="m 9108,12892 h -89 v 211 h 89 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17523"
+   d="m 8997,12892 h -90 v 211 h 90 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17525"
+   d="m 8885,12892 h -90 v 211 h 90 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17527"
+   d="m 8773,12892 h -90 v 211 h 90 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17529"
+   d="m 8773,13851 h -90 v 210 h 90 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17531"
+   d="m 8885,13851 h -90 v 210 h 90 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17533"
+   d="m 8997,13851 h -90 v 210 h 90 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17535"
+   d="m 9108,13851 h -89 v 210 h 89 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17537"
+   d="m 9220,13851 h -89 v 210 h 89 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17539"
+   d="m 9332,13851 h -89 v 210 h 89 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17541"
+   d="m 9444,13851 h -89 v 210 h 89 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17543"
+   d="m 8390,13548 v -142 h -423 v 142 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17545"
+   d="m 8390,13324 v -142 h -423 v 142 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17547"
+   d="m 8390,13100 v -142 h -423 v 142 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17549"
+   d="m 8390,12876 v -142 h -423 v 142 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17551"
+   d="m 7473,12876 v -142 h -423 v 142 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17553"
+   d="m 7473,13100 v -142 h -423 v 142 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17555"
+   d="m 7473,13324 v -142 h -423 v 142 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path17557"
+   d="m 7473,13548 v -142 h -423 v 142 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17559"
+   y2="13246"
+   x2="14967"
+   y1="13257"
+   x1="14967"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17561"
+   y2="13246"
+   x2="14974"
+   y1="13246"
+   x1="14967"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17563"
+   y2="13247"
+   x2="14980"
+   y1="13246"
+   x1="14974"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17565"
+   y2="13246"
+   x2="14986"
+   y1="13247"
+   x1="14980"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17567"
+   y2="13243"
+   x2="14992"
+   y1="13246"
+   x1="14986"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17569"
+   y2="13239"
+   x2="14997"
+   y1="13243"
+   x1="14992"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17571"
+   y2="13234"
+   x2="15001"
+   y1="13239"
+   x1="14997"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17573"
+   y2="13228"
+   x2="15003"
+   y1="13234"
+   x1="15001"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17575"
+   y2="13098"
+   x2="15003"
+   y1="13228"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17577"
+   y2="13092"
+   x2="15001"
+   y1="13098"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17579"
+   y2="13087"
+   x2="14997"
+   y1="13092"
+   x1="15001"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17581"
+   y2="13083"
+   x2="14992"
+   y1="13087"
+   x1="14997"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17583"
+   y2="13081"
+   x2="14986"
+   y1="13083"
+   x1="14992"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17585"
+   y2="13080"
+   x2="14980"
+   y1="13081"
+   x1="14986"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17587"
+   y2="13080"
+   x2="14974"
+   y1="13080"
+   x1="14980"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17589"
+   y2="13080"
+   x2="14967"
+   y1="13080"
+   x1="14974"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17591"
+   y2="13069"
+   x2="14967"
+   y1="13080"
+   x1="14967"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17593"
+   y2="13069"
+   x2="15025"
+   y1="13069"
+   x1="14967"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17595"
+   y2="13070"
+   x2="15034"
+   y1="13069"
+   x1="15025"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17597"
+   y2="13074"
+   x2="15042"
+   y1="13070"
+   x1="15034"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17599"
+   y2="13080"
+   x2="15048"
+   y1="13074"
+   x1="15042"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17601"
+   y2="13087"
+   x2="15053"
+   y1="13080"
+   x1="15048"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17603"
+   y2="13096"
+   x2="15054"
+   y1="13087"
+   x1="15053"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17605"
+   y2="13230"
+   x2="15054"
+   y1="13096"
+   x1="15054"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17607"
+   y2="13237"
+   x2="15054"
+   y1="13230"
+   x1="15054"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17609"
+   y2="13243"
+   x2="15052"
+   y1="13237"
+   x1="15054"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17611"
+   y2="13249"
+   x2="15048"
+   y1="13243"
+   x1="15052"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17613"
+   y2="13253"
+   x2="15043"
+   y1="13249"
+   x1="15048"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17615"
+   y2="13256"
+   x2="15036"
+   y1="13253"
+   x1="15043"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17617"
+   y2="13257"
+   x2="15030"
+   y1="13256"
+   x1="15036"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17619"
+   y2="13257"
+   x2="14967"
+   y1="13257"
+   x1="15030"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17621"
+   y2="13253"
+   x2="15043"
+   y1="13253"
+   x1="14967"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17623"
+   y2="13244"
+   x2="15051"
+   y1="13244"
+   x1="14991"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17625"
+   y2="13235"
+   x2="15054"
+   y1="13235"
+   x1="15000"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17627"
+   y2="13226"
+   x2="15054"
+   y1="13226"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17629"
+   y2="13217"
+   x2="15054"
+   y1="13217"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17631"
+   y2="13208"
+   x2="15054"
+   y1="13208"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17633"
+   y2="13199"
+   x2="15054"
+   y1="13199"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17635"
+   y2="13190"
+   x2="15054"
+   y1="13190"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17637"
+   y2="13181"
+   x2="15054"
+   y1="13181"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17639"
+   y2="13172"
+   x2="15054"
+   y1="13172"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17641"
+   y2="13163"
+   x2="15054"
+   y1="13163"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17643"
+   y2="13154"
+   x2="15054"
+   y1="13154"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17645"
+   y2="13145"
+   x2="15054"
+   y1="13145"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17647"
+   y2="13136"
+   x2="15054"
+   y1="13136"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17649"
+   y2="13127"
+   x2="15054"
+   y1="13127"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17651"
+   y2="13118"
+   x2="15054"
+   y1="13118"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17653"
+   y2="13109"
+   x2="15054"
+   y1="13109"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17655"
+   y2="13100"
+   x2="15054"
+   y1="13100"
+   x1="15003"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17657"
+   y2="13091"
+   x2="15054"
+   y1="13091"
+   x1="15000"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17659"
+   y2="13083"
+   x2="15050"
+   y1="13083"
+   x1="14991"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17661"
+   y2="13074"
+   x2="15042"
+   y1="13074"
+   x1="14967"
+   stroke="#676767"
+   fill="#676767" />
+        <circle
+   r="72"
+   id="ellipse17663"
+   cy="13163"
+   cx="15079"
+   stroke="#676767"
+   fill="none" />
+        <ellipse
+   id="ellipse17665"
+   ry="23"
+   rx="22"
+   cy="13163"
+   cx="15079"
+   stroke="#676767"
+   fill="none" />
+        <line
+   id="line17667"
+   y2="13074"
+   x2="11012"
+   y1="13074"
+   x1="11012"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <line
+   id="line17669"
+   y2="14529"
+   x2="11236"
+   y1="14305"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17671"
+   y2="14641"
+   x2="11124"
+   y1="14529"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17673"
+   y2="14529"
+   x2="10788"
+   y1="14641"
+   x1="10900"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17675"
+   y2="14753"
+   x2="11236"
+   y1="14641"
+   x1="11124"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17677"
+   y2="14977"
+   x2="11236"
+   y1="14753"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17679"
+   y2="15089"
+   x2="11124"
+   y1="14977"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17681"
+   y2="14977"
+   x2="10788"
+   y1="15089"
+   x1="10900"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17683"
+   y2="14753"
+   x2="10788"
+   y1="14977"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17685"
+   y2="14641"
+   x2="10900"
+   y1="14753"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17687"
+   y2="13857"
+   x2="11236"
+   y1="13745"
+   x1="11124"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17689"
+   y2="14081"
+   x2="11236"
+   y1="13857"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17691"
+   y2="14193"
+   x2="11124"
+   y1="14081"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17693"
+   y2="14081"
+   x2="10788"
+   y1="14193"
+   x1="10900"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17695"
+   y2="13857"
+   x2="10788"
+   y1="14081"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17697"
+   y2="13745"
+   x2="10900"
+   y1="13857"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17699"
+   y2="14193"
+   x2="11124"
+   y1="14305"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17701"
+   y2="14305"
+   x2="10788"
+   y1="14193"
+   x1="10900"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17703"
+   y2="14305"
+   x2="10788"
+   y1="14529"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17705"
+   y2="13186"
+   x2="11236"
+   y1="12962"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17707"
+   y2="13298"
+   x2="11124"
+   y1="13186"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17709"
+   y2="13186"
+   x2="10788"
+   y1="13298"
+   x1="10900"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17711"
+   y2="13409"
+   x2="11236"
+   y1="13298"
+   x1="11124"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17713"
+   y2="13633"
+   x2="11236"
+   y1="13409"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17715"
+   y2="13745"
+   x2="11124"
+   y1="13633"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17717"
+   y2="13633"
+   x2="10788"
+   y1="13745"
+   x1="10900"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17719"
+   y2="13409"
+   x2="10788"
+   y1="13633"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17721"
+   y2="13298"
+   x2="10900"
+   y1="13409"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17723"
+   y2="12850"
+   x2="10900"
+   y1="12850"
+   x1="11124"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17725"
+   y2="12850"
+   x2="11124"
+   y1="12962"
+   x1="11236"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17727"
+   y2="12962"
+   x2="10788"
+   y1="12850"
+   x1="10900"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17729"
+   y2="12962"
+   x2="10788"
+   y1="13186"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17731"
+   y2="15089"
+   x2="10900"
+   y1="15089"
+   x1="11124"
+   stroke="#990025"
+   fill="#990025" />
+        <circle
+   r="184"
+   id="ellipse17733"
+   cy="13073"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17735"
+   cy="13073"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17737"
+   cy="13521"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17739"
+   cy="13521"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17741"
+   cy="13969"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17743"
+   cy="13969"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17745"
+   cy="14417"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17747"
+   cy="14417"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17749"
+   cy="14865"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17751"
+   cy="14865"
+   cx="11012"
+   stroke="#676767"
+   fill="none" />
+        <line
+   id="line17753"
+   y2="13074"
+   x2="10564"
+   y1="13074"
+   x1="10564"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <line
+   id="line17755"
+   y2="14529"
+   x2="10788"
+   y1="14305"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17757"
+   y2="14641"
+   x2="10676"
+   y1="14529"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17759"
+   y2="14529"
+   x2="10340"
+   y1="14641"
+   x1="10452"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17761"
+   y2="14753"
+   x2="10788"
+   y1="14641"
+   x1="10676"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17763"
+   y2="14977"
+   x2="10788"
+   y1="14753"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17765"
+   y2="15089"
+   x2="10676"
+   y1="14977"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17767"
+   y2="14977"
+   x2="10340"
+   y1="15089"
+   x1="10452"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17769"
+   y2="14753"
+   x2="10340"
+   y1="14977"
+   x1="10340"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17771"
+   y2="14641"
+   x2="10452"
+   y1="14753"
+   x1="10340"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17773"
+   y2="13857"
+   x2="10788"
+   y1="13745"
+   x1="10676"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17775"
+   y2="14081"
+   x2="10788"
+   y1="13857"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17777"
+   y2="14193"
+   x2="10676"
+   y1="14081"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17779"
+   y2="14081"
+   x2="10340"
+   y1="14193"
+   x1="10452"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17781"
+   y2="13857"
+   x2="10340"
+   y1="14081"
+   x1="10340"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17783"
+   y2="13745"
+   x2="10452"
+   y1="13857"
+   x1="10340"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17785"
+   y2="14193"
+   x2="10676"
+   y1="14305"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17787"
+   y2="14305"
+   x2="10340"
+   y1="14193"
+   x1="10452"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17789"
+   y2="14305"
+   x2="10340"
+   y1="14529"
+   x1="10340"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17791"
+   y2="13186"
+   x2="10788"
+   y1="12962"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17793"
+   y2="13298"
+   x2="10676"
+   y1="13186"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17795"
+   y2="13186"
+   x2="10340"
+   y1="13298"
+   x1="10452"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17797"
+   y2="13409"
+   x2="10788"
+   y1="13298"
+   x1="10676"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17799"
+   y2="13633"
+   x2="10788"
+   y1="13409"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17801"
+   y2="13745"
+   x2="10676"
+   y1="13633"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17803"
+   y2="13633"
+   x2="10340"
+   y1="13745"
+   x1="10452"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17805"
+   y2="13409"
+   x2="10340"
+   y1="13633"
+   x1="10340"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17807"
+   y2="13298"
+   x2="10452"
+   y1="13409"
+   x1="10340"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17809"
+   y2="12850"
+   x2="10452"
+   y1="12850"
+   x1="10676"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17811"
+   y2="12850"
+   x2="10676"
+   y1="12962"
+   x1="10788"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17813"
+   y2="12962"
+   x2="10340"
+   y1="12850"
+   x1="10452"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17815"
+   y2="12962"
+   x2="10340"
+   y1="13186"
+   x1="10340"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17817"
+   y2="15089"
+   x2="10452"
+   y1="15089"
+   x1="10676"
+   stroke="#990025"
+   fill="#990025" />
+        <circle
+   r="184"
+   id="ellipse17819"
+   cy="13073"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17821"
+   cy="13073"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17823"
+   cy="13521"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17825"
+   cy="13521"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17827"
+   cy="13969"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17829"
+   cy="13969"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17831"
+   cy="14417"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17833"
+   cy="14417"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17835"
+   cy="14865"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17837"
+   cy="14865"
+   cx="10564"
+   stroke="#676767"
+   fill="none" />
+        <line
+   id="line17839"
+   y2="13074"
+   x2="6085"
+   y1="13074"
+   x1="6085"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <line
+   id="line17841"
+   y2="14529"
+   x2="6309"
+   y1="14305"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17843"
+   y2="14641"
+   x2="6197"
+   y1="14529"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17845"
+   y2="14529"
+   x2="5861"
+   y1="14641"
+   x1="5973"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17847"
+   y2="14753"
+   x2="6309"
+   y1="14641"
+   x1="6197"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17849"
+   y2="14977"
+   x2="6309"
+   y1="14753"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17851"
+   y2="15089"
+   x2="6197"
+   y1="14977"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17853"
+   y2="14977"
+   x2="5861"
+   y1="15089"
+   x1="5973"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17855"
+   y2="14753"
+   x2="5861"
+   y1="14977"
+   x1="5861"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17857"
+   y2="14641"
+   x2="5973"
+   y1="14753"
+   x1="5861"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17859"
+   y2="13857"
+   x2="6309"
+   y1="13745"
+   x1="6197"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17861"
+   y2="14081"
+   x2="6309"
+   y1="13857"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17863"
+   y2="14193"
+   x2="6197"
+   y1="14081"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17865"
+   y2="14081"
+   x2="5861"
+   y1="14193"
+   x1="5973"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17867"
+   y2="13857"
+   x2="5861"
+   y1="14081"
+   x1="5861"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17869"
+   y2="13745"
+   x2="5973"
+   y1="13857"
+   x1="5861"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17871"
+   y2="14193"
+   x2="6197"
+   y1="14305"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17873"
+   y2="14305"
+   x2="5861"
+   y1="14193"
+   x1="5973"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17875"
+   y2="14305"
+   x2="5861"
+   y1="14529"
+   x1="5861"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17877"
+   y2="13186"
+   x2="6309"
+   y1="12962"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17879"
+   y2="13298"
+   x2="6197"
+   y1="13186"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17881"
+   y2="13186"
+   x2="5861"
+   y1="13298"
+   x1="5973"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17883"
+   y2="13409"
+   x2="6309"
+   y1="13298"
+   x1="6197"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17885"
+   y2="13633"
+   x2="6309"
+   y1="13409"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17887"
+   y2="13745"
+   x2="6197"
+   y1="13633"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17889"
+   y2="13633"
+   x2="5861"
+   y1="13745"
+   x1="5973"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17891"
+   y2="13409"
+   x2="5861"
+   y1="13633"
+   x1="5861"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17893"
+   y2="13298"
+   x2="5973"
+   y1="13409"
+   x1="5861"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17895"
+   y2="12850"
+   x2="5973"
+   y1="12850"
+   x1="6197"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17897"
+   y2="12850"
+   x2="6197"
+   y1="12962"
+   x1="6309"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17899"
+   y2="12962"
+   x2="5861"
+   y1="12850"
+   x1="5973"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17901"
+   y2="12962"
+   x2="5861"
+   y1="13186"
+   x1="5861"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line17903"
+   y2="15089"
+   x2="5973"
+   y1="15089"
+   x1="6197"
+   stroke="#990025"
+   fill="#990025" />
+        <circle
+   r="184"
+   id="ellipse17905"
+   cy="13073"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17907"
+   cy="13073"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17909"
+   cy="13521"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17911"
+   cy="13521"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17913"
+   cy="13969"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17915"
+   cy="13969"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17917"
+   cy="14417"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17919"
+   cy="14417"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="184"
+   id="ellipse17921"
+   cy="14865"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <circle
+   r="90"
+   id="ellipse17923"
+   cy="14865"
+   cx="6085"
+   stroke="#676767"
+   fill="none" />
+        <line
+   id="line17925"
+   y2="13080"
+   x2="14761"
+   y1="13069"
+   x1="14761"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17927"
+   y2="13080"
+   x2="14754"
+   y1="13080"
+   x1="14761"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17929"
+   y2="13080"
+   x2="14748"
+   y1="13080"
+   x1="14754"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17931"
+   y2="13081"
+   x2="14742"
+   y1="13080"
+   x1="14748"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17933"
+   y2="13083"
+   x2="14736"
+   y1="13081"
+   x1="14742"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17935"
+   y2="13087"
+   x2="14731"
+   y1="13083"
+   x1="14736"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17937"
+   y2="13092"
+   x2="14727"
+   y1="13087"
+   x1="14731"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17939"
+   y2="13098"
+   x2="14725"
+   y1="13092"
+   x1="14727"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17941"
+   y2="13228"
+   x2="14725"
+   y1="13098"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17943"
+   y2="13234"
+   x2="14727"
+   y1="13228"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17945"
+   y2="13239"
+   x2="14731"
+   y1="13234"
+   x1="14727"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17947"
+   y2="13243"
+   x2="14736"
+   y1="13239"
+   x1="14731"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17949"
+   y2="13246"
+   x2="14742"
+   y1="13243"
+   x1="14736"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17951"
+   y2="13247"
+   x2="14748"
+   y1="13246"
+   x1="14742"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17953"
+   y2="13246"
+   x2="14754"
+   y1="13247"
+   x1="14748"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17955"
+   y2="13246"
+   x2="14761"
+   y1="13246"
+   x1="14754"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17957"
+   y2="13257"
+   x2="14761"
+   y1="13246"
+   x1="14761"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17959"
+   y2="13257"
+   x2="14703"
+   y1="13257"
+   x1="14761"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17961"
+   y2="13256"
+   x2="14694"
+   y1="13257"
+   x1="14703"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17963"
+   y2="13253"
+   x2="14686"
+   y1="13256"
+   x1="14694"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17965"
+   y2="13247"
+   x2="14680"
+   y1="13253"
+   x1="14686"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17967"
+   y2="13239"
+   x2="14675"
+   y1="13247"
+   x1="14680"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17969"
+   y2="13230"
+   x2="14674"
+   y1="13239"
+   x1="14675"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17971"
+   y2="13096"
+   x2="14674"
+   y1="13230"
+   x1="14674"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17973"
+   y2="13089"
+   x2="14674"
+   y1="13096"
+   x1="14674"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17975"
+   y2="13083"
+   x2="14677"
+   y1="13089"
+   x1="14674"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17977"
+   y2="13077"
+   x2="14680"
+   y1="13083"
+   x1="14677"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17979"
+   y2="13073"
+   x2="14686"
+   y1="13077"
+   x1="14680"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17981"
+   y2="13070"
+   x2="14692"
+   y1="13073"
+   x1="14686"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17983"
+   y2="13069"
+   x2="14698"
+   y1="13070"
+   x1="14692"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17985"
+   y2="13069"
+   x2="14761"
+   y1="13069"
+   x1="14698"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17987"
+   y2="13074"
+   x2="14685"
+   y1="13074"
+   x1="14761"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17989"
+   y2="13083"
+   x2="14677"
+   y1="13083"
+   x1="14738"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17991"
+   y2="13091"
+   x2="14674"
+   y1="13091"
+   x1="14728"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17993"
+   y2="13100"
+   x2="14674"
+   y1="13100"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17995"
+   y2="13109"
+   x2="14674"
+   y1="13109"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17997"
+   y2="13118"
+   x2="14674"
+   y1="13118"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line17999"
+   y2="13127"
+   x2="14674"
+   y1="13127"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18001"
+   y2="13136"
+   x2="14674"
+   y1="13136"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18003"
+   y2="13145"
+   x2="14674"
+   y1="13145"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18005"
+   y2="13154"
+   x2="14674"
+   y1="13154"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18007"
+   y2="13163"
+   x2="14674"
+   y1="13163"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18009"
+   y2="13172"
+   x2="14674"
+   y1="13172"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18011"
+   y2="13181"
+   x2="14674"
+   y1="13181"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18013"
+   y2="13190"
+   x2="14674"
+   y1="13190"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18015"
+   y2="13199"
+   x2="14674"
+   y1="13199"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18017"
+   y2="13208"
+   x2="14674"
+   y1="13208"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18019"
+   y2="13217"
+   x2="14674"
+   y1="13217"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18021"
+   y2="13226"
+   x2="14674"
+   y1="13226"
+   x1="14725"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18023"
+   y2="13235"
+   x2="14675"
+   y1="13235"
+   x1="14728"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18025"
+   y2="13244"
+   x2="14678"
+   y1="13244"
+   x1="14738"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18027"
+   y2="13253"
+   x2="14687"
+   y1="13253"
+   x1="14761"
+   stroke="#676767"
+   fill="#676767" />
+        <circle
+   r="72"
+   id="ellipse18029"
+   cy="13163"
+   cx="14649"
+   stroke="#676767"
+   fill="none" />
+        <ellipse
+   id="ellipse18031"
+   ry="23"
+   rx="22"
+   cy="13163"
+   cx="14649"
+   stroke="#676767"
+   fill="none" />
+        <line
+   id="line18033"
+   y2="14596"
+   x2="9960"
+   y1="14596"
+   x1="9960"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <line
+   id="line18035"
+   y2="14337"
+   x2="9892"
+   y1="14847"
+   x1="9892"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line18037"
+   y2="14337"
+   x2="10027"
+   y1="14337"
+   x1="9892"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line18039"
+   y2="14847"
+   x2="10027"
+   y1="14337"
+   x1="10027"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line18041"
+   y2="14847"
+   x2="9892"
+   y1="14847"
+   x1="10027"
+   stroke="#990025"
+   fill="#990025" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18043"
+   d="m 10235,14679 v -174 h -193 v 174 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18045"
+   d="m 9877,14850 v -175 h -193 v 175 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18047"
+   d="m 9877,14509 v -175 h -193 v 175 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18049"
+   y2="13141"
+   x2="9960"
+   y1="13141"
+   x1="9960"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18051"
+   d="m 9704,13256 h 212 v -230 h -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18053"
+   d="m 10003,13256 h 212 v -230 h -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18055"
+   y2="14037"
+   x2="9960"
+   y1="14037"
+   x1="9960"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18057"
+   d="m 9704,14151 h 212 v -229 h -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18059"
+   d="m 10003,14151 h 212 v -229 h -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18061"
+   y2="14417"
+   x2="13700"
+   y1="14417"
+   x1="13700"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18063"
+   d="m 14109,14240 h -318 v 354 h 318 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18065"
+   d="m 13608,14240 h -318 v 354 h 318 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18067"
+   y2="13589"
+   x2="9960"
+   y1="13589"
+   x1="9960"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18069"
+   d="m 10215,13474 h -212 v 230 h 212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18071"
+   d="m 9916,13474 h -212 v 230 h 212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18073"
+   y2="15268"
+   x2="7496"
+   y1="15268"
+   x1="7496"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18075"
+   d="m 7240,15383 h 212 v -230 h -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18077"
+   d="m 7540,15383 h 212 v -230 h -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18079"
+   y2="15134"
+   x2="8302"
+   y1="15134"
+   x1="8302"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18081"
+   d="m 8046,15249 h 212 v -230 h -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18083"
+   d="m 8346,15249 h 212 v -230 h -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18085"
+   y2="14596"
+   x2="8302"
+   y1="14596"
+   x1="8302"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <line
+   id="line18087"
+   y2="14037"
+   x2="8302"
+   y1="14037"
+   x1="8302"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18089"
+   d="m 8187,13781 v 212 h 230 v -212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18091"
+   d="m 8187,14080 v 213 h 230 v -213 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18093"
+   y2="14350"
+   x2="9086"
+   y1="14350"
+   x1="9086"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18095"
+   d="m 9342,14235 h -212 v 230 h 212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18097"
+   d="m 9042,14235 h -212 v 230 h 212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18099"
+   y2="14686"
+   x2="9086"
+   y1="14686"
+   x1="9086"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18101"
+   d="m 9342,14571 h -212 v 230 h 212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18103"
+   d="m 9042,14571 h -212 v 230 h 212 z"
+   stroke="#676767"
+   fill="#676767" />
+        <line
+   id="line18105"
+   y2="14417"
+   x2="12817"
+   y1="14417"
+   x1="12817"
+   stroke="#cc6666"
+   fill="#cc6666" />
+        <line
+   id="line18107"
+   y2="14350"
+   x2="13077"
+   y1="14350"
+   x1="12566"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line18109"
+   y2="14484"
+   x2="13077"
+   y1="14350"
+   x1="13077"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line18111"
+   y2="14484"
+   x2="12566"
+   y1="14484"
+   x1="13077"
+   stroke="#990025"
+   fill="#990025" />
+        <line
+   id="line18113"
+   y2="14350"
+   x2="12566"
+   y1="14484"
+   x1="12566"
+   stroke="#990025"
+   fill="#990025" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18115"
+   d="m 12734,14693 h 175 v -193 h -175 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18117"
+   d="m 12904,14334 h 175 v -192 h -175 z"
+   stroke="#676767"
+   fill="#676767" />
+        <path
+   inkscape:connector-curvature="0"
+   id="path18119"
+   d="m 12564,14334 h 175 v -192 h -175 z"
+   stroke="#676767"
+   fill="#676767" />
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
